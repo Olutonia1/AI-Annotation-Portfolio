@@ -1,0 +1,101 @@
+﻿Comment_ID,Comment,Toxicity_Labels,Confidence,Reason,Annotation_Record_Status
+TC001,"I completely disagree with your argument, but I respect your point of view.",,High,,Confidence recorded
+TC002,You are an idiot and nobody wants to hear your nonsense.,,High,,Confidence recorded
+TC003,That presentation was poorly organized and needs stronger evidence.,,High,,Confidence recorded
+TC004,"Get out of here, you pathetic loser.",,,,No annotation result recorded
+TC005,"I am frustrated with the delay, but I hope the team can fix it soon.",,High,,Confidence recorded
+TC006,You keep sending me unwanted messages after I asked you to stop.,,High,,Confidence recorded
+TC007,"If you come near me again, you will regret it.",,,,No annotation result recorded
+TC008,The report contains several factual errors that should be corrected.,,High,,Confidence recorded
+TC009,What a stupid thing to say. You clearly know nothing.,,,,No annotation result recorded
+TC010,This is a damn difficult assignment.,,,,No annotation result recorded
+TC011,Thanks for explaining the issue so clearly.,,High,,Confidence recorded
+TC012,People from that group are disgusting and should not be allowed here.,,,,No annotation result recorded
+TC013,Stop acting like a fool and read the instructions.,,,,No annotation result recorded
+TC014,I strongly disagree with the decision made by the committee.,,High,,Confidence recorded
+TC015,You are useless. Why do you even bother contributing?,,High,,Confidence recorded
+TC016,"The service was disappointing, but the staff were polite.",,High,,Confidence recorded
+TC017,I hope you get hurt for what you did.,,,,No annotation result recorded
+TC018,"Wow, brilliant job. You really couldn't have made a bigger mess.",,High,the statement is sarcastic with intent to insult or degrade a person,Confidence recorded
+TC019,The article raises an important question about public policy.,,High,,Confidence recorded
+TC020,You people never understand anything.,,High,,Confidence recorded
+TC021,Please leave me alone. I do not want further contact.,,High,,Confidence recorded
+TC022,This movie was terrible and boring.,,High,,Confidence recorded
+TC023,You're a complete moron.,,High,,Confidence recorded
+TC024,He described the comment as offensive and inappropriate.,,High,,Confidence recorded
+TC025,"I disagree with you, but there is no need to be rude.",,High,,Confidence recorded
+TC026,Keep talking and I'll make you sorry you ever posted this.,,High,,Confidence recorded
+TC027,Your explanation is confusing and should be rewritten.,,Medium,The statement borders o explanation or it could be insult dressed in concern ,Confidence recorded
+TC028,Only an ignorant fool would believe that.,,High,,Confidence recorded
+TC029,That was a really kind and helpful response.,,High,,Confidence recorded
+TC030,You have been targeting me in every discussion this week.,,Medium,it borders between a report and a threat,Confidence recorded
+TC031,The product is badly designed and the instructions are unclear.,,High,,Confidence recorded
+TC032,"Nobody likes you, you disgusting creep.",,High,,Confidence recorded
+TC033,"I am angry about the result, but I will appeal through the proper process.",,High,,Confidence recorded
+TC034,Those people are animals and deserve to be treated differently.,,High,,Confidence recorded
+TC035,What a ridiculous proposal.,,High,,Confidence recorded
+TC036,You are such a damn liar.,,High,,Confidence recorded
+TC037,The meeting starts at nine tomorrow morning.,,High,,Confidence recorded
+TC038,"If you keep insulting me, I will report your account.",,Medium,the intentions and tone is ambigious it seems as both a defence and a threat but leaning towards defence,Confidence recorded
+TC039,You're too stupid to understand even the simplest instructions.,,High,,Confidence recorded
+TC040,"The customer support response was slow, but the issue was eventually resolved.",,High,,Confidence recorded
+TC041,I will find you and make sure you pay for this.,,Medium,the threat may differ in context. it may mean harm or not ,Confidence recorded
+TC042,That comment was offensive because it attacked people based on their background.,,Medium,this is a report of an offensive comment ,Confidence recorded
+TC043,Please provide the evidence supporting your claim.,,High,,Confidence recorded
+TC044,You pathetic excuse for a human being.,,High,,Confidence recorded
+TC045,The software crashed twice after the update.,,High,,Confidence recorded
+TC046,You keep mocking me in every thread. Please stop.,,High,,Confidence recorded
+TC047,"This idea is terrible, but I think it can be improved.",,High,,Confidence recorded
+TC048,People like you should never be given a platform.,,High,,Confidence recorded
+TC049,I cannot believe how badly you handled this.,,High,,Confidence recorded
+TC050,Thanks for your feedback. I will consider your suggestion.,,High,,Confidence recorded
+TC051,"You're an idiot, and I'll make you regret posting that.",,High,,Confidence recorded
+TC052,The article is biased and fails to consider alternative evidence.,,High,,Confidence recorded
+TC053,That was damn impressive.,,High,,Confidence recorded
+TC054,You are disgusting and completely worthless.,,High,,Confidence recorded
+TC055,I don't agree with your conclusion.,,High,,Confidence recorded
+TC056,I hope something bad happens to you.,,Medium,this is an edge case of a direct threat or wish ,Confidence recorded
+TC057,The teacher explained the topic clearly and patiently.,,High,,Confidence recorded
+TC058,You have posted the same insult under several of my comments.,,Medium,,Confidence recorded
+TC059,That plan makes no sense to me.,,High,,Confidence recorded
+TC060,Those people are inferior and should stay out of our community.,,High,,Confidence recorded
+TC061,You are a liar and a complete fool.,,High,,Confidence recorded
+TC062,I am disappointed by the decision and would like an explanation.,,High,,Confidence recorded
+TC063,Watch your back.,,High,,Confidence recorded
+TC064,This is the worst customer service I have ever experienced.,,High,,Confidence recorded
+TC065,You're acting like a clown.,,High,,Confidence recorded
+TC066,The report needs more recent data before we can draw a conclusion.,,High,,Confidence recorded
+TC067,You keep harassing people who disagree with you.,,High,,Confidence recorded
+TC068,I hope you fail your exam.,,High,,Confidence recorded
+TC069,That was an incredibly rude response.,,High,,Confidence recorded
+TC070,"The comment says, 'You are an idiot,' but I am reporting it rather than agreeing with it.",,Medium,this is a reported commnt,Confidence recorded
+TC071,I strongly dislike this policy.,,High,,Confidence recorded
+TC072,You people are all the same and completely useless.,,High,,Confidence recorded
+TC073,"Leave me alone, or I will contact the platform moderators.",,High,,Confidence recorded
+TC074,"The instructions were confusing, so I made a mistake.",,High,,Confidence recorded
+TC075,You are a worthless loser.,,High,,Confidence recorded
+TC076,I am not happy with the service I received.,,High,,Confidence recorded
+TC077,"If you threaten me again, I will contact the authorities.",,High,,Confidence recorded
+TC078,This argument is weak because it ignores the available evidence.,,High,,Confidence recorded
+TC079,What an idiot.,,,,No annotation result recorded
+TC080,"The discussion became heated, but everyone remained respectful.",,High,,Confidence recorded
+TC081,You keep following me from one discussion to another just to attack me.,,High,,Confidence recorded
+TC082,I hope you have a terrible day.,,High,,Confidence recorded
+TC083,That was a stupid decision.,,High,,Confidence recorded
+TC084,People from that community are disgusting.,,High,,Confidence recorded
+TC085,Please stop making personal comments about me.,,High,,Confidence recorded
+TC086,The product failed after two days of normal use.,,High,,Confidence recorded
+TC087,You are an awful person and nobody can stand you.,,High,,Confidence recorded
+TC088,I disagree with the proposal for several practical reasons.,,High,,Confidence recorded
+TC089,Do that again and you'll be sorry.,,High,,Confidence recorded
+TC090,"The comment contains profanity, but it is not directed at anyone.",,High,,Confidence recorded
+TC091,You are completely clueless.,,High,,Confidence recorded
+TC092,I appreciate the detailed explanation.,,High,,Confidence recorded
+TC093,They repeatedly insulted other users throughout the discussion.,,High,,Confidence recorded
+TC094,That group does not deserve the same rights as everyone else.,,High,,Confidence recorded
+TC095,This decision was poorly handled by management.,,High,,Confidence recorded
+TC096,"You are a stupid, useless idiot.",,High,,Confidence recorded
+TC097,"I am upset about what happened, but I want to resolve it peacefully.",,High,,Confidence recorded
+TC098,I will hurt you if you come back here.,,High,,Confidence recorded
+TC099,"The review is negative, but it focuses on the product rather than the employee.",,High,,Confidence recorded
+TC100,You people should disappear from this community.,,High,,Confidence recorded
